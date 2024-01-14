@@ -1,5 +1,5 @@
 <h1>Hello World! 👋</h1>
-I am George Yu, a graduate student @University of Adelaide majoring in Computer Science, and I pursued my Bachelor's degree @University of Melbourne. I am passionate about <strong>Machine Learning</strong> and <strong>Web Development</strong>. I am eager to connect with like-minded professionals who are as enthusiastic about <strong>Machine Learning</strong> and <strong>Web Development</strong> as I am. Happy Learning! 🔥🔥🔥
+I am George Yu, a graduate student @University of Adelaide majoring in Computer Science, and I pursued my Bachelor's degree @University of Melbourne in Data Science. I am passionate about <strong>Machine Learning</strong> and <strong>Web Development</strong>. I am eager to connect with like-minded professionals who are as enthusiastic about <strong>Machine Learning</strong> and <strong>Web Development</strong> as I am. Happy Learning! 🔥🔥🔥
 
 <h3>Internships and Research Projects</h3>
 
