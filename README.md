@@ -13,4 +13,6 @@ I am George Yu, a graduate student @University of Adelaide majoring in Computer 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuBaichuan2000&layout=donut)](https://www.linkedin.com/in/george-yu-a6800a227/)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/YuBaichuan?theme=light)](https://leetcode.com/YuBaichuan/)
+
 😜 Fun fact **I love playing tennis🎾 with my ragdoll🐱**
