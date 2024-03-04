@@ -17,6 +17,7 @@ I am George Yu, a graduate student @University of Adelaide majoring in Computer 
   <a href="https://github.com/YuBaichuan2000/pricing-card-frontend-challenge" target="_blank"><img src="https://github.com/YuBaichuan2000/pricing-card-frontend-challenge/blob/main/images/Screenshot%202024-01-15%20at%2015.21.40.png" height="180" width="250"/></a>
   <a href="https://github.com/YuBaichuan2000/testimonials-grid-section" target="_blank"><img src="https://github.com/YuBaichuan2000/testimonials-grid-section/blob/main/images/Screenshot%202024-01-29%20at%2012.07.29.png" height="180" width="250"/></a>
   <a href="https://github.com/YuBaichuan2000/qr-code-challenge" target="_blank"><img src="https://github.com/YuBaichuan2000/qr-code-challenge/blob/main/images/Screenshot%202024-01-29%20at%2012.20.04.png" height="180" width="250"/></a>
+  <a href="https://github.com/YuBaichuan2000/faq-accordion" target="_blank"><img src="https://github.com/YuBaichuan2000/faq-accordion/blob/main/assets/images/Screenshot%202024-03-04%20at%2013.20.52.png" height="180" width="250"/></a>
 </p>
 
 
